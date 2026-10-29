@@ -1,1 +1,3 @@
-# Lab8Funciones
+
+#include <iostream>
+using namespace std;
